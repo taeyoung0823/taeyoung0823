@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - Grand Prize 🏆, AWS Cloud School 8th Project [2025.07]
 - Grand Prize 🏆, IoT Idea Competition [2024.12]
 - 3rd Prize 🥉, Capstone Project [2024.06]
-- Grand Prize 🏆, Undergraduate Research Project Competition [2023.11]
+- Grand Prize 🏆, Research Project Competition [2023.11]
