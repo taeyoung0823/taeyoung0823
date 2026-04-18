@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##### Work Experience
-- KakaoPay, Release Engineering Internship [2025.10~]
+- KakaoPay, Release Engineering Internship [2025.10~2026.04]
 
 ##### Certificates
 - AWS Solutions Architect Associate [2025.06]
