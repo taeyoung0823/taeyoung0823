@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ##### Work Experience
 - KakaoPay, Release Engineering Internship [2025.10~2026.04]
+- Hist, Cloud Engineer [2026.05~]
 
 ##### Certificates
 - AWS Solutions Architect Associate [2025.06]
