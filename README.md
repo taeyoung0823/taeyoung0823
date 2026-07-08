@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ##### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taeyoung0823&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeyoung0823&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taeyoung0823&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taeyoung0823&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
 
 <div align="center">
