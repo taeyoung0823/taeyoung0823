@@ -1,23 +1,31 @@
 # Hi, I'm Tae Young 👋
 
-Cloud Engineer working with AWS, Kubernetes, Terraform, and release automation. I care about repeatable infrastructure and clear documentation.
+##### Tech Stacks
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 
-## Selected work
+##### Work Experience
+- Hist, Cloud Engineer [2026.05~]
+- KakaoPay, Release Engineering Internship [2025.10~2026.04]
 
-- [Everyone's Fitness](https://github.com/taeyoung0823/taeyoung0823.github.io) — a browser-based fitness prototype using PoseNet.
-- [ghostty-config](https://github.com/taeyoung0823/ghostty-config) — a documented Ghostty and Zsh setup for macOS.
-- [Algorithm_Study](https://github.com/taeyoung0823/Algorithm_Study) — programming problem solutions and practice.
+##### Certificates
+- AWS Solutions Architect Associate [2025.06]
+- SQLD [2024.06]
+- Network Administrator Level 2 [2022.07]
 
-## Experience
+##### Experience
+- OSSCA, LitmusChaos [2026.04~2026.06]
+- CloudClub 9th Member [2026.03~2026.06]
+- AWS Cloud School 8th Trainee [2024.12~2025.07]
 
-- **Cloud Engineer, Hist** · May 2026–present
-- **Release Engineering Intern, KakaoPay** · Oct 2025–Apr 2026
-- **OSSCA LitmusChaos participant** · Apr–Jun 2026
-
-## Tools
-
-AWS · Terraform · Kubernetes · Docker · GitHub Actions
-
-## Highlights
-
-AWS Certified Solutions Architect – Associate (2025) · Grand Prize, AWS Cloud School 8th Project (2025)
+##### Awards
+- Grand Prize 🏆, AWS Cloud School 8th Project [2025.07]
+- Grand Prize 🏆, IoT Idea Competition [2024.12]
+- 3rd Prize 🥉, Capstone Project [2024.06]
+- Grand Prize 🏆, Research Project Competition [2023.11]
