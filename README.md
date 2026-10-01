@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 - Network Administrator Level 2 [2022.07]
 
 ##### Experience
-- OSSCA, LitmusChaos [2026.04~]
-- CloudClub 9th Member [2026.03~]
+- OSSCA, LitmusChaos [2026.04~2026.06]
+- CloudClub 9th Member [2026.03~2026.06]
 - AWS Cloud School 8th Trainee [2024.12~2025.07]
 
 ##### Awards
